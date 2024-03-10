@@ -25,15 +25,6 @@
     </item>
     
     <item>
-      <title>Todo List App</title>
-      <link>http://localhost:1313/projects/todo-list-app/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/todo-list-app/</guid>
-      <description>A Todo list web application built using React</description>
-    </item>
-    
-    <item>
       <title>Pika Food Ordering Chatbot (END-END NLP PROJECT)</title>
       <link>http://localhost:1313/projects/face-landmarks-detection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -49,24 +40,6 @@
       
       <guid>http://localhost:1313/projects/gaze-tracking-goggles/</guid>
       <description>Secured 3rd Place at &amp;#39;Hackaphasia&amp;#39; AI Hackathon with the Advanced Science &amp;amp; Tech Chatbot!</description>
-    </item>
-    
-    <item>
-      <title>OpenQuad</title>
-      <link>http://localhost:1313/projects/openquad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/openquad/</guid>
-      <description>Open-souce platform for drone automation</description>
-    </item>
-    
-    <item>
-      <title>SEBART-Pro</title>
-      <link>http://localhost:1313/projects/sebart-pro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/sebart-pro/</guid>
-      <description>A smart self-balancing robot!</description>
     </item>
     
   </channel>

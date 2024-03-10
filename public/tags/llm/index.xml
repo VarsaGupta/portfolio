@@ -15,5 +15,14 @@
       <description>Created an LANGCHAIN GEN AI PACK which is deployed on CELLSTRAT Hub</description>
     </item>
     
+    <item>
+      <title>ATS Resume Expert</title>
+      <link>http://localhost:1313/projects/automated-image-captioning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/automated-image-captioning/</guid>
+      <description>Can Streamlit&amp;#39;s ATS Resume Expert Enhance Your Hiring Process?</description>
+    </item>
+    
   </channel>
 </rss>

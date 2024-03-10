@@ -16,42 +16,6 @@
     </item>
     
     <item>
-      <title>I passed the AWS SAA Certification Exam</title>
-      <link>http://localhost:1313/blog/aws-saa-certification/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/aws-saa-certification/</guid>
-      <description>How I passed the AWS Solutions Architect-Associate Certification Exam</description>
-    </item>
-    
-    <item>
-      <title>Kindle to Notion</title>
-      <link>http://localhost:1313/blog/kindle-to-notion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/kindle-to-notion/</guid>
-      <description>A way to seamlessly transfer your Kindle highlights to Notion Database!</description>
-    </item>
-    
-    <item>
-      <title>Face Landmarks Detection using CNN</title>
-      <link>http://localhost:1313/blog/face-landmarks-detection/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/face-landmarks-detection/</guid>
-      <description>Can computers really understand the human face?</description>
-    </item>
-    
-    <item>
-      <title>Face Dataset Compression using PCA</title>
-      <link>http://localhost:1313/blog/face-dataset-compression/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/face-dataset-compression/</guid>
-      <description>Principal Component Analysis for Image Dataset Compression</description>
-    </item>
-    
-    <item>
       <title>BMS INN</title>
       <link>http://localhost:1313/projects/kindle-to-notion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -70,15 +34,6 @@
     </item>
     
     <item>
-      <title>Todo List App</title>
-      <link>http://localhost:1313/projects/todo-list-app/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/todo-list-app/</guid>
-      <description>A Todo list web application built using React</description>
-    </item>
-    
-    <item>
       <title>Pika Food Ordering Chatbot (END-END NLP PROJECT)</title>
       <link>http://localhost:1313/projects/face-landmarks-detection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -94,24 +49,6 @@
       
       <guid>http://localhost:1313/projects/gaze-tracking-goggles/</guid>
       <description>Secured 3rd Place at &amp;#39;Hackaphasia&amp;#39; AI Hackathon with the Advanced Science &amp;amp; Tech Chatbot!</description>
-    </item>
-    
-    <item>
-      <title>OpenQuad</title>
-      <link>http://localhost:1313/projects/openquad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/openquad/</guid>
-      <description>Open-souce platform for drone automation</description>
-    </item>
-    
-    <item>
-      <title>SEBART-Pro</title>
-      <link>http://localhost:1313/projects/sebart-pro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/sebart-pro/</guid>
-      <description>A smart self-balancing robot!</description>
     </item>
     
     <item>
