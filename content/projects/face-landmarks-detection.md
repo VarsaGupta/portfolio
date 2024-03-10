@@ -1,19 +1,28 @@
 ---
-title: "Face Landmarks Detection using CNN"
-description: "Can computers really understand the human face?"
-dateString: May 2020
+title: "Pika Food Ordering Chatbot (END-END NLP PROJECT)"
+description: "Hungry for Innovation? Meet the Pika-Food Ordering Chatbot!"
+dateString: Jan 2024
 draft: false
-tags: ["DL", "AI", "Python", "PyTorch"]
+tags: ["Python", "HTML", "CSS", "ML", "FastAPI","MySQL","dialogflow","ngrok"]
 showToc: false
 weight: 205
 cover:
-    image: "projects/face-landmarks-detection/cover.jpg"
+    image: "/projects/face-landmarks-detection/Order-Food-Online.jpg"
 --- 
-### 🔗 [Colab Notebook](https://colab.research.google.com/drive/1TOw7W_WU4oltoGZfZ_0krpxmhdFR2gmb)
-### 🔗 [Blog Post](../../blog/face-landmarks-detection)
+### 🔗 [GitHub](https://github.com/VarsaGupta/Pika-Food_Ordering_Chatbot)
+### 🔗 [LinkedIn Post](https://www.linkedin.com/posts/varsa-gupta-027104265_chatbot-nlp-python-activity-7146623275744247808-Y0AM?utm_source=share&utm_medium=member_desktop)
 
 ## Description
 
-In this project, I trained a neural network to localize key points on faces. **Resnet-18** was used as the model with some slight modifications to the input and output layer. The model was trained on the official **DLib Dataset** containing **6666 images** along with corresponding **68-point landmarks** for each face. Additionally, I wrote a custom data preprocessing pipeline in **PyTorch** to increase variance in the input images to help the model generalize better. The neural network was trained for 30 epochs before it reached the optima.
+In this project, I created the **"Pika-Food Ordering Chatbot"** utilizing **Python**, **FastAPI**, **MySQL**, and **DialogFlow** to streamline the food ordering process. The chatbot offers users an intuitive platform for placing orders, featuring **effortless ordering**, **real-time interaction**, and seamless **database integration**. Leveraging **FastAPI**, I ensured smooth communication between the user interface and the backend, enabling dynamic updates and interactions for a responsive ordering experience.
 
-During inference, **OpenCV Harr Cascades** are used to detect faces in the input images. Detected faces are then cropped, resized to (224, 224), and fed to our trained neural network to predict landmarks in them. The predicted landmarks in the cropped faces are then overlayed on top of the original image.
+Additionally, I focused on enhancing user satisfaction by incorporating advanced features such as **order completion brilliance** and **NLP-powered conversations**. The chatbot calculates totals, generates unique order IDs, and provides detailed summaries, ensuring a seamless order completion process. Moreover, **NLP technology** adds a personalized touch to interactions, making the chatbot easy and enjoyable to use. Join the chatbot revolution and simplify your food ordering experience with the **"Pika-Food Ordering Chatbot"** today! 🍔🤖🌟
+
+## Images
+![Image Alt Text](/projects/face-landmarks-detection/PikaBot01.png) 
+
+
+![Image Alt Text](/projects/face-landmarks-detection/PikaBot02.png)
+
+
+![Image Alt Text](/projects/face-landmarks-detection/PikaBot03.png)

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LLM Blog on Portfolio</title>
+    <link>http://localhost:1313/tags/llm-blog/</link>
+    <description>Recent content in LLM Blog on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/tags/llm-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LLM (LANGCHAIN GEN AI) PACK</title>
+      <link>http://localhost:1313/blog/aws-dva-certification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/aws-dva-certification/</guid>
+      <description>Created an LANGCHAIN GEN AI PACK which is deployed on CELLSTRAT Hub</description>
+    </item>
+    
+  </channel>
+</rss>

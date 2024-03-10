@@ -1,69 +1,64 @@
 ---
-title: "I passed the AWS DVA Certification Exam"
-description: "How I passed the AWS Developer - Associate Certification Exam (DVA-C02)"
-dateString: Mar 2023
+title: "LLM (LANGCHAIN GEN AI) PACK"
+description: "Created an LANGCHAIN GEN AI PACK which is deployed on CELLSTRAT Hub"
+dateString: Jan 2024
 draft: false
-tags: ["AWS", "DVA", "Certification", "Developer", "Developer Associate"]
+tags: ["LLM", "GEN AI", "LLM Blog"]
 weight: 101
 cover:
-    image: "/blog/aws-dva-certification/cover.jpg"
+    image: "/blog/aws-dva-certification/LLM.png"
 ---
 
-# Credentials
+<!-- # Credentials
 ### 🔗 [Certificate](https://drive.google.com/file/d/1VhFPfb1cc7ORFVqFetCvpiGLPE96ofg4/view?usp=sharing)
 
 ### 🔗 [Credly Badge](https://www.credly.com/badges/b08022fe-627a-4b78-8647-b42955f50767/public_url)
 
-### 🎬 [YouTube Video](https://youtu.be/x88k9fuEDuE)
+### 🎬 [YouTube Video](https://youtu.be/x88k9fuEDuE) -->
 
 # Introduction
-I've passed the AWS Solutions Architect - Associate certification exam with just a month of preparation while pursuing MSc in Applied Computing at the University of Toronto and working as a DevOps Intern at [16Bit](https://16bit.ai), a med-tech startup based in Toronto. In this article, I’ll be sharing everything about this exam, my preparation strategies and tips. So, if you have plans on taking this exam anytime soon, read this article till the end. 
+I've developed an LLM(GEN AI) PACK which is deployed on [CELLSTRAT Hub](https://console.cellstrathub.com/packs/langchain-gen-ai). This pack contains a series of projects developed as part of the LangChain initiative, demonstrating various applications and use cases leveraging language models and generative AI. Each project is designed to showcase the capabilities of different technologies and platforms.
 
-# What is AWS Developer - Associate Certification
-With the rise of Cloud Computing, companies have constantly been shifting from running their infrastructure on-premise, which is hard to scale and manage, to running them on cloud, which offers far more elasticity in terms of scaling and resiliency in case of disasters.
+## Table Of Contents
 
-![](/blog/aws-dva-certification/img1.jpg)
+Here's a brief description for each item in the table of contents:
 
-The AWS **Developer - Associate** certification validates your expertise in developing and maintaining applications on AWS, which is the leading cloud provider today. It focuses on AWS core services, development tools and deployment practices. It can help developers enhance their skills, increase their earning potential, and demonstrate their proficiency to potential employers.
+1. **LLM1-Basics of LLM**: This section covers the fundamentals of LLM (Large Language Models), providing an introduction to its concepts, applications, and underlying technologies.
 
-![](/blog/aws-dva-certification/img2.png)
+2. **LLM2-Querying PDF with AstraDB**: In this section, you'll learn about querying PDF documents using AstraDB, exploring techniques and methods for efficiently retrieving information from PDF files.
 
-# Exam Format
-In this exam, you will get **65 questions** and **130 minutes** to answer them which means you get **2 mins per question**. Out of the total questions, 15 will be experimental (ungraded). But you will not know which ones are experimental, otherwise you will skip them. So, you need to attempt every question on the test.
+3. **LLM3-Blog Generation using LLAMA 2**: This section delves into the process of generating blog content using LLAMA 2, an advanced language model tailored for content creation tasks.
 
-You will be graded on a percentile basis on a scale of 100 to 1000 where you will nead to score **more than 720 to pass the exam**. Based on this information, you can approximate that you will have to answer about 72% of the questions correctly in order to pass. You can refer this [link](https://aws.amazon.com/blogs/training-and-certification/demystifying-your-aws-certification-exam-score/) for more details on how scoring works.
+4. **LLM4-LLM Generic App using Pinecone VectorDB**: Here, you'll discover how to build a generic application using LLM, leveraging Pinecone VectorDB for managing and querying large-scale vector data efficiently.
 
-This exam has a pass / fail criteria. If you pass the exam, your score doesn't really matter. It will only be written on your score report for your reference. It will not be mentioned anywhere on the certificate. 
+5. **LLM5-Gemini Pro LLM Application**: This section focuses on the Gemini Pro LLM Application, showcasing its features, capabilities, and practical applications in various domains.
 
-The cost of taking this exam is 150 USD but I got 50% off, so I paid just 75 USD. The way it works is that if you passed your first AWS certification exam, then you can get 50% off on the second one if you take it within a year of taking the first certification. Since, I passed the [AWS Solution’s Architect - Associate Certification](https://arkalim.org/blog/aws-saa-certification) exam in the month of May last year, I was eligible for the discount.
+6. **LLM6-Invoice Extractor using Gemini Pro Vision**: In this section, you'll explore the development and implementation of an invoice extractor using Gemini Pro Vision, a vision-based application powered by LLM technology.
 
-# My Preparation Strategy
-I prepared for about 4-6 hours everyday for a months while being a grad student and working as a DevOps intern. I took the [AWS Developer - Associate Course by **Stephane Maarek**](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01) which is available on [Udemy](https://www.udemy.com/). Preparing for the DVA exam was a bit easy for me as I had already passed the SAA exam, because the concepts overlap to some degree between the two certification exams.
+![Image Alt Text](/blog/aws-saa-certification/Expansion.png)
 
-Once I was done with the course, I bought three sets of practice tests on Udemy that are provided by:
-- [Stephane Maarek](https://www.udemy.com/course/aws-certified-developer-associate-practice-tests-dva-c01/)
-- [Jon Bonso](https://www.udemy.com/course/aws-certified-developer-associate-practice-exams-amazon-dva-c01/)
-- [Neal Davis](https://www.udemy.com/course/aws-developer-associate-practice-exams/)
 
-Each of these practice test packages contain 6 practice tests. Additionally, a free practice test is provided with the course.
 
-While going through the course, I took easy to follow notes in Notion. Additionally, while taking the practice tests, I saved the questions along with their explanations, into a Notion page, for the questions that I got wrong and the questions that I found difficult to answer. This would come in handy later when I revise everything before the exam. 
+# What is CELLSTRAT Hub ?
+**CellStrat Hub** is a full-stack AI skilling, development and deployment platform. It enables students and learners to upskill in various domains of AI as well as develop AI projects easily and efficiently. CellStrat Hub's core value is to make AI simpler for everyone. CellStrat Hub includes a wide range of features for development, learning and deployment.
+![Image Alt Text](/blog/aws-dva-certification/CellStart.png)
 
-I also created a notion page for quick notes to include information that’s hard to remember, things like message retention duration of a Kinesis Data Stream or the IOPS limits for the different EBS volume types. I just glanced through this stuff before taking the actual test to have all that information fresh in my memory.
 
-🔗 [My notes](https://drive.google.com/file/d/1VhFPfb1cc7ORFVqFetCvpiGLPE96ofg4/view?usp=sharing)
 
-![](/blog/aws-dva-certification/img3.png)
+## Workspace
+CellStrat Hub **Workspace** is a simple yet powerful fully-managed development environment for rapid AI development based on JupyterLab. Workspace comes with a whole suite of features like,
 
-# Taking the Test
-You can take the test either at a testing center or online at the comfort of your home. I would suggest you go for a testing center if it is available nearby. The experience is so smooth and you don't have to worry about internet connectivity or proctoring issues. I took the test at a testing center and my experience was good. 
+A Dedicated Virtual Machine on the Cloud with Jupyter Lab
+Persistent Storage for all your Files
+One-Click Realtime Collaborative Coding (think Google Docs for Code)
+Visual Debugger to easily debug your swamps of code
+Code-Snippets Extension to save your frequently used snippets of code and reuse them in any of your projects with the click of a button
+Seamless Git Integration via both, SSH (recommended) and Personal Access Token
+A Curated Set of Project Packs with Code Repositories in all major fields of AI like Computer Vision, Natural Language Processing, Reinforcement Learning and Much More.
 
-Last year, I took the AWS SAA exam online from my home and my experience was pretty bad. The proctor asked me not to move my lips while reading the questions. So, the proctoring was way too strict. I was stressed and mindful about my body position, and was not able to focus well on the actual test. Another problem with taking the test online is that if the proctor cancels your exam, you won't get a refund. You will have to rebook and retake the test at a later date.
+![](/blog/aws-dva-certification/Workspace.png)
 
-# Tips for taking the AWS SAA exam
-- Take as many practice tests as you can. They will give you an idea of the kind of topics that come up in the exam most often. Also, the questions in these practice tests match very well with the ones appearing on the actual exam.
+## Expansion Packs
+Getting Started with practical machine learning as a beginner is a tedious task with so many projects and options spread all across the internet. Its very easy to get lost in the sea of resources that are out there. To solve this issue, Hub comes with Expansion Packs that are a curated list of projects to get you started in a particular field of AI. If you are a beginner, these packs will help you get hands-on experience and practice. If you are an expert already, these packs will help you jumpstart your project so you can build on top of it.
 
-- The amount of information that you will have to go through to prepare for this exam is enormous. You not only need a good understanding of the various AWS resources and architectures, but you will also have to remember a lot of information. So, keep at least 3 days to revise your notes before the exam.
-
-# That's all folks
-That was all about the AWS Developer - Associate Certification exam. Thanks a lot for reading!
+![](/blog/aws-dva-certification/EPack.png)
